@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaKipster
 - 👀 I’m interested in learning how to program ...
-- 🌱 I’m currently learning full stack through zero to mastery and documents
+- 🌱 I’m currently learning software engineering through Course Careers
 ...i've created a few projects as i continue to learn more.
 
 
