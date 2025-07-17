@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaKipster
+- 👋 Hi, I’m Kipling
 - 👀 I’m interested in learning how to program ...
 - 🌱 I’m currently learning software engineering through Course Careers
 ...i've created a few projects as i continue to learn more.
